@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-25T16:27:20 IST" name="Default suite" finished-at="2024-04-25T16:27:52 IST" duration-ms="32203">
+    <groups>
+    </groups>
+    <test started-at="2024-04-25T16:27:20 IST" name="Default test" finished-at="2024-04-25T16:27:52 IST" duration-ms="32203">
+      <class name="StorageLocator.VerifyStorageLocator">
+        <test-method is-config="true" signature="launchServer()[pri:0, instance:StorageLocator.VerifyStorageLocator@a38c7fe]" started-at="2024-04-25T16:27:20 IST" name="launchServer" finished-at="2024-04-25T16:27:20 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchServer -->
+        <test-method is-config="true" signature="launchAppAndLogin()[pri:0, instance:StorageLocator.VerifyStorageLocator@a38c7fe]" started-at="2024-04-25T16:27:20 IST" name="launchAppAndLogin" finished-at="2024-04-25T16:27:29 IST" duration-ms="9395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAppAndLogin -->
+        <test-method signature="script()[pri:0, instance:StorageLocator.VerifyStorageLocator@a38c7fe]" started-at="2024-04-25T16:27:29 IST" name="script" finished-at="2024-04-25T16:27:52 IST" duration-ms="22141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- script -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:StorageLocator.VerifyStorageLocator@a38c7fe]" started-at="2024-04-25T16:27:52 IST" name="closeApp" finished-at="2024-04-25T16:27:52 IST" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method is-config="true" signature="stopServer()[pri:0, instance:StorageLocator.VerifyStorageLocator@a38c7fe]" started-at="2024-04-25T16:27:52 IST" name="stopServer" finished-at="2024-04-25T16:27:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopServer -->
+      </class> <!-- StorageLocator.VerifyStorageLocator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
